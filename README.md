@@ -66,6 +66,6 @@
 
 ## 🛠️ Installation  
 ```bash
-git clone https://github.com/yourusername/ig-follow-analyzer.git
-cd ig-follow-analyzer
-python ig_check.py
+git clone https://github.com/rrvmiii/Check Followers.py.git
+cd Check Followers.py
+python Check Followers.py
